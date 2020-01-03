@@ -1,9 +1,9 @@
+# ebsd2abaqusEuler
 Nicolò Grilli
 University of Oxford
 2020
 nicolo.grilli@eng.ox.ac.uk
 
-# ebsd2abaqusEuler
 Abaqus Mesh and Grain Orientation from EBSD using MTEX
 
 The MTEX Matlab package is used to convert EBSD data to Abaqus input file
