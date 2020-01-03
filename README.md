@@ -1,7 +1,10 @@
 # ebsd2abaqusEuler
 Nicolò Grilli
+
 University of Oxford
+
 2020
+
 nicolo.grilli@eng.ox.ac.uk
 
 Abaqus Mesh and Grain Orientation from EBSD using MTEX
