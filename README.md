@@ -57,7 +57,7 @@ Boundary conditions must be defined
 Generate input file and run Abaqus simulation
 
 See the following paper for an application example:
-Nicolò Grilli, Philip Earp, Alan C.F. Cocks, James Marrow, EdmundTarleton
+Nicolò Grilli, Philip Earp, Alan C.F. Cocks, James Marrow, Edmund Tarleton
 Characterisation of slip and twin activity using digital image correlation and 
 crystal plasticity finite element simulation: Application to orthorhombic α-uranium
 Journal of the Mechanics and Physics of Solids 135 (2020) 103800
